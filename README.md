@@ -1,4 +1,4 @@
-# Cirebon Dash
+# Game Cirebon Dash
 
 ## Identitas Kelompok
 - Kelompok: 1
@@ -47,8 +47,8 @@ Game / Endless Runner
 ## Link
 - Figma: https://www.figma.com/design/Nqgyv3CdGMUb1b3gcQQPuP/Project-Kelompok-Desain-Web-Cirebon-Dash?node-id=0-1&t=bv7HoLMubSPAG2Ec-1
 - Live Preview: https://cirebon-game-dash.netlify.app/
-- YouTube Demo: [ISI LINK YOUTUBE]
-- Video Proses: [ISI LINK VIDEO PROSES]
+- YouTube Demo: https://youtu.be/TGVCOma6fyU?si=--dalyH-Ny3wSEjI
+- Video Proses: https://youtu.be/TGVCOma6fyU?si=--dalyH-Ny3wSEjI
 
 ## Cara Menjalankan
 Buka `source-code/index.html` langsung menggunakan browser modern. Project ini tidak memiliki langkah build atau instalasi dependency. Koneksi internet diperlukan agar Google Fonts yang dirujuk halaman dapat dimuat; jika tidak tersedia, font fallback di CSS digunakan.
